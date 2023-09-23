@@ -1,3 +1,4 @@
+```ruby
 WITH    duration_table AS (
                         SELECT PARSE_DATE("%Y%m%d",event_date) date,
                                 user_pseudo_id id,
@@ -52,3 +53,4 @@ ON first_purchase_table.id = duration_table.id
 
 WHERE DATETIME_DIFF(duration_table.purchase_time,duration_table.start_time, MINUTE)>0 
 ORDER BY duration_table.date, duration_table.id
+```
