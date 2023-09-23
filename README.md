@@ -1,4 +1,5 @@
 # Product-Analyst-Project
-Product Analyst project I made at Turing College
+
+📝Topic of the project: Duration Dynamic Daily
 
 
