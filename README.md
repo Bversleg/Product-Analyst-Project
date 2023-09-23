@@ -10,8 +10,10 @@
 - Difference first time and Repeat buyers
 
 ## Main findings
-Most sales happen during the first hour.
-More specifically, the first 20 minutes after arriving on the website.
+
+> Most sales happen during the first hour.
+>
+>More specifically, the first 20 minutes after arriving on the website.
 
 
 
